@@ -36,11 +36,24 @@ You can find my publications and citation statistics on my
 
 # 🔥 News
 
+- Our paper **Can Verifiable PIR Match the Online Efficiency of SimplePIR?** has been accepted to **IEEE S&P 2027**.
+- Our paper [**Three-Round Weak Non-Malleable Zero-Knowledge Argument**](https://eprint.iacr.org/2026/1964) has been accepted to **ASIACRYPT 2026**.
+
 Decoupled TFHE-type Functional Bootstrapping, Zhihao Li, Xuan Shen,  Xianhui Lu, Ruida Wang, Yuan Zhao, Zhiwei Wang, CCS26
 
 ---
 
 # 📝 Selected Publications
+
+**Can Verifiable PIR Match the Online Efficiency of SimplePIR?**<br>
+Xinxuan Zhang, **Ruida Wang\***, Zirui Wang, Yuming Guo, Jikang Bai, Yuanju Wei, Yi Deng, Xianhui Lu<br>
+[**IEEE Symposium on Security and Privacy (S&P) • 2027**](https://sp2027.ieee-security.org/)<br>
+Accepted, to appear.
+
+**Three-Round Weak Non-Malleable Zero-Knowledge Argument**<br>
+Xinxuan Zhang, Yuanju Wei, Zhichao Wang, Zhongliang Zhang, Ming Yang, **Ruida Wang**, Yi Deng\*, Hailong Wang<br>
+[**International Conference on the Theory and Application of Cryptology and Information Security (ASIACRYPT) • 2026**](https://asiacrypt.iacr.org/2026/)<br>
+Accepted, to appear. [Paper](https://eprint.iacr.org/2026/1964) · [PDF](https://eprint.iacr.org/2026/1964.pdf)
 
 **Circuit Bootstrapping: Faster and Smaller** 
 **Ruida Wang**, Yundi Wen, Zhihao Li, Xianhui Lu*, Benqiang Wei, Kun Liu, Kunpeng Wang 
