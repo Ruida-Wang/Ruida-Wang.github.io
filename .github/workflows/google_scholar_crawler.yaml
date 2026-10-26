@@ -41,7 +41,7 @@ jobs:
             echo "::error::The GOOGLE_SCHOLAR_ID repository secret is missing."
             exit 1
           fi
-          python main.py
+          timeout 180s python -u main.py
 
       - name: Check out citation data branch
         uses: actions/checkout@v6
